@@ -22,15 +22,38 @@ import { onMessage } from "firebase/messaging";
 import { toast } from "@/hooks/use-toast";
 
 
+// Your web app's Firebase configuration
+
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
- authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
-projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
-  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
-  appId: import.meta.env.VITE_FIREBASE_APP_ID,
-  measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID,
- };
+
+  apiKey: "AIzaSyAdqAoT2IewbCknzqqMQ5En5lUIYWJv0e4",
+
+  authDomain: "storagefinsight.firebaseapp.com",
+
+  databaseURL: "https://storagefinsight-default-rtdb.firebaseio.com",
+
+  projectId: "storagefinsight",
+
+  storageBucket: "storagefinsight.firebasestorage.app",
+
+  messagingSenderId: "822642518224",
+
+  appId: "1:822642518224:web:7d03616bb2dcd6dc04d6d5",
+
+  measurementId: "G-MJ3K9LWY3K"
+
+};
+
+
+// const firebaseConfig = {
+//   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+//  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+// projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+//   storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+//   messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+//   appId: import.meta.env.VITE_FIREBASE_APP_ID,
+//   measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID,
+//  };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
