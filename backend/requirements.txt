@@ -1,0 +1,8 @@
+# Backend dependencies for Stock & ITR Recommendation System
+fastapi           # ✅ Use this instead of Flask
+uvicorn           # ✅ ASGI server to run FastAPI
+pandas            # Data manipulation
+numpy             # Numerical operations
+yfinance          # Yahoo Finance data fetch
+pandas_ta         # Technical analysis indicators
+reportlab         # PDF report generation (optional)

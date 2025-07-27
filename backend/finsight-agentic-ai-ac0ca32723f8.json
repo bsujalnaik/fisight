@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "finsight-agentic-ai",
+  "private_key_id": "ac0ca32723f8f3c81a7b4d1f2e99b7b0f774091d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/GHT2Zz/3cf/g\ncujTUB1ou8Mbr94HJnyp0tGym4zgDUtMWcUnyMllXX54Ei6tBqmeHRb4WlySHrC9\nH1PORoVzQytOReE6unNDoGd/Nn8Lbq44yx/JPqG0u30reifSQ1vSSpRUb1h/1NNv\nl6QRZ+IeY5seMkpx0kA/vH/p5VRbNfa94hyCA5RBmu9deHwugUWISOLajY7HK7zp\nkhdfKG07mYc0RX++8Qms0IZ0hPdiIN1B20LYEgbXraW2ZfpQfY8v2IiBh5Tws+yg\n2JWcB6cja79GvB1xiN51syzY35huGMNxAvGfWYFBfmdIg/d6HNMM0Dh/uXwOp8YE\n4kNuVgLbAgMBAAECggEAEAYlfKoAx6eUDMal9l4/8RHZlP9Ez3WvO3BVrDP19q22\ntDLM4P6pwKm72qavqkumOn929yFgpNIVAO7ZELGCLD2kKn6amdmbo76WHyk7MwK3\nckS6KB5r4eNc5iHqp+uFDhe543Coy6NVjYR6OglrgR/aGIigDHZUc+PDGCJmVfWF\nhqsLoRd/xXaOyMjy8MTCdJbX564+VKXl5AjyY5t/HUjbCknN8jWw/UlwPu6Ph+9O\nOjOiQEGoLWSwKUO9Ei9TPIoZQrhwqqdaG9R943tPXAWjS3qVLDDPxGRt2/hZIoHL\nJ4/n7nIKKwnnXrp3DYiSXJyNnMqOS+nN82aUfe1koQKBgQD9zfvcfpzih1Mb6DJ3\n1xL0mpp7E3apbAUeMCEj1Xlb52S4MnjkJKsQCtRVRLJPfhGW8i5AVNAnpRZeggKE\nipgl0cbJbjx4YdrCnq1D6qazwIE9iOlJFy1UD4tokhdEo9A0pZVFXQd3B+ffOL64\n2qqITu2jENM2sf4+NCnjspCs4QKBgQDAv5y6MhJoXDx+owH4nZmJBahrbvJH3LBp\nk13g/rr7lahYEo2jozv5QtdvqVJjwznSOYItrXFp2ezlbY0dCO9KfSXzHh1fKwrJ\nYrt2NzQ85zCxh+KvJKu2gRJNogG8li7cA30ph3mhdHFonI3AIA7RUClVb0Oquq+7\ng3W9vSCLOwKBgQD9TxVddtyb1lYjVzbvlq+rg5ZE2iMnatEc1QpuWkQabrJ+iJlR\nkitNApHzXHHelsN1dNamjD+IIeNWhcl/gVfi/yC4r5YYzAlrDrV9QHgKlUooITo8\nIa6y5CTORGiGsDxAHzcBGJ03tqM8jcUEd/GVw7i3dDZps3I9oRBh2jk84QKBgAzt\nDKqj7v4WqWvorJoqn4BD496IizDsiNwbqOEM1CdJCwgU/nCp4ry9kcsINOFB11/U\nwXkkt4VcuvlL1nnK/pklOWVLcLbQISIOP/oWi6dF7csKDNaoA+fyUfLo2Wr3O18/\n0KX3Ut3T/EMCtLLcs4Gv+YWkN4p8iIpvr3aw9zy/AoGAW/fvL04/VdLOHb20xv/A\nPAc1UOAfcRAL2SAiwAhyw6DOXLmC1NSAZH/rrv67em1pmYcncSgUfTbVe3A/vr8S\nHrNENcFU8+Z/7Iz/SQjCZ5/MQj+RpgSYymZJqyBR388ntmaiDyow4HrCqxEmN10G\nwqaEtOaO/LMVxYk2SAb/ggE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertex-ai-backend@finsight-agentic-ai.iam.gserviceaccount.com",
+  "client_id": "113835906576267119060",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-ai-backend%40finsight-agentic-ai.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

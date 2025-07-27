@@ -1,0 +1,203 @@
+{
+  "portfolio_data": {
+    "net_worth": {
+      "total_net_worth": 5000000,
+      "liquid_assets": 2000000,
+      "investments": 2500000,
+      "real_estate": 500000,
+      "last_updated": "2024-01-15T10:30:00Z"
+    },
+    "bank_transactions": {
+      "transactions": [
+        {
+          "date": "2024-01-15",
+          "type": "CREDIT",
+          "amount": 75000,
+          "description": "Salary"
+        },
+        {
+          "date": "2024-01-14",
+          "type": "DEBIT",
+          "amount": 15000,
+          "description": "Rent"
+        },
+        {
+          "date": "2024-01-13",
+          "type": "DEBIT",
+          "amount": 5000,
+          "description": "Utilities"
+        },
+        {
+          "date": "2024-01-12",
+          "type": "CREDIT",
+          "amount": 25000,
+          "description": "Freelance Income"
+        }
+      ],
+      "total_credits": 100000,
+      "total_debits": 20000,
+      "net_flow": 80000
+    },
+    "credit_report": {
+      "credit_score": 750,
+      "credit_limit": 500000,
+      "utilization": 0.15,
+      "accounts": [
+        {
+          "type": "credit_card",
+          "limit": 100000,
+          "balance": 15000
+        },
+        {
+          "type": "personal_loan",
+          "limit": 200000,
+          "balance": 50000
+        }
+      ],
+      "payment_history": "excellent"
+    },
+    "epf_details": {
+      "total_balance": 800000,
+      "employer_contribution": 400000,
+      "employee_contribution": 400000,
+      "interest_rate": 8.1,
+      "last_contribution": "2024-01-01"
+    },
+    "mf_transactions": {
+      "transactions": [
+        {
+          "fund_name": "HDFC Mid-Cap Opportunities",
+          "type": "PURCHASE",
+          "amount": 50000,
+          "date": "2024-01-10"
+        },
+        {
+          "fund_name": "Axis Bluechip Fund",
+          "type": "PURCHASE",
+          "amount": 75000,
+          "date": "2024-01-05"
+        },
+        {
+          "fund_name": "SBI Small Cap Fund",
+          "type": "PURCHASE",
+          "amount": 25000,
+          "date": "2024-01-01"
+        }
+      ],
+      "total_invested": 150000,
+      "current_value": 165000,
+      "returns": 10.0
+    },
+    "stock_transactions": {
+      "transactions": [
+        {
+          "symbol": "HDFCBANK",
+          "type": "BUY",
+          "amount": 100000,
+          "quantity": 100,
+          "date": "2024-01-10"
+        },
+        {
+          "symbol": "TCS",
+          "type": "BUY",
+          "amount": 150000,
+          "quantity": 50,
+          "date": "2024-01-05"
+        },
+        {
+          "symbol": "RELIANCE",
+          "type": "BUY",
+          "amount": 200000,
+          "quantity": 200,
+          "date": "2024-01-01"
+        },
+        {
+          "symbol": "HDFCBANK",
+          "type": "SELL",
+          "amount": 110000,
+          "quantity": 50,
+          "date": "2024-01-12"
+        }
+      ],
+      "total_invested": 450000,
+      "current_value": 480000,
+      "returns": 6.7
+    }
+  },
+  "portfolio_summary": {
+    "total_value": 5000000,
+    "holdings_count": 7,
+    "asset_allocation": {
+      "equity": 560000,
+      "mutual_fund": 150000,
+      "epf": 800000
+    },
+    "top_performers": [
+      {
+        "name": "EPF Account",
+        "type": "epf",
+        "value": 800000,
+        "return_percentage": 8.1,
+        "transactions": []
+      },
+      {
+        "name": "HDFCBANK",
+        "type": "equity",
+        "value": 210000,
+        "return_percentage": 0,
+        "transactions": [
+          {
+            "symbol": "HDFCBANK",
+            "type": "BUY",
+            "amount": 100000,
+            "quantity": 100,
+            "date": "2024-01-10"
+          },
+          {
+            "symbol": "HDFCBANK",
+            "type": "SELL",
+            "amount": 110000,
+            "quantity": 50,
+            "date": "2024-01-12"
+          }
+        ]
+      },
+      {
+        "name": "TCS",
+        "type": "equity",
+        "value": 150000,
+        "return_percentage": 0,
+        "transactions": [
+          {
+            "symbol": "TCS",
+            "type": "BUY",
+            "amount": 150000,
+            "quantity": 50,
+            "date": "2024-01-05"
+          }
+        ]
+      }
+    ],
+    "risk_metrics": {
+      "diversification_score": 0.7,
+      "concentration_risk": "high",
+      "volatility_estimate": "medium",
+      "data_completeness": 1.0
+    },
+    "recommendations": [
+      "Consider diversifying your portfolio to reduce concentration risk"
+    ],
+    "data_sources": [
+      "net_worth",
+      "stock_transactions",
+      "mf_transactions",
+      "epf_details"
+    ],
+    "data_quality": {
+      "sources_connected": 4,
+      "total_possible_sources": 4,
+      "completeness_percentage": 100.0
+    }
+  },
+  "timestamp": "2025-07-26T04:37:22.170127"
+}

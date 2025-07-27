@@ -1,0 +1,314 @@
+{
+  "scenario_1": {
+    "portfolio_summary": {
+      "total_value": 5000000,
+      "holdings_count": 12,
+      "asset_allocation": {
+        "equity": 3000000,
+        "mutual_funds": 1500000,
+        "bonds": 500000
+      },
+      "top_performers": [
+        {
+          "name": "HDFC Bank",
+          "return": 15.5,
+          "value": 800000
+        },
+        {
+          "name": "TCS",
+          "return": 12.3,
+          "value": 600000
+        },
+        {
+          "name": "Reliance",
+          "return": 8.7,
+          "value": 500000
+        }
+      ],
+      "risk_metrics": {
+        "diversification_score": 0.85,
+        "concentration_risk": "low",
+        "volatility_estimate": "medium"
+      },
+      "recommendations": [
+        "Consider increasing international exposure",
+        "Rebalance portfolio quarterly",
+        "Add more tax-saving instruments"
+      ]
+    },
+    "real_time_data": {
+      "market_trends": {
+        "nifty_50": "+2.3%",
+        "sensex": "+1.8%",
+        "bank_nifty": "+3.1%"
+      },
+      "sector_performance": {
+        "technology": "+4.2%",
+        "banking": "+2.8%",
+        "pharma": "+1.5%"
+      },
+      "economic_indicators": {
+        "inflation_rate": "4.1%",
+        "gdp_growth": "6.8%",
+        "interest_rate": "6.5%"
+      }
+    },
+    "tax_updates": {
+      "latest_updates": [
+        {
+          "title": "New Tax Slab Changes Effective April 2024",
+          "summary": "Government announces revised tax slabs for FY 2024-25",
+          "source": "Ministry of Finance",
+          "date": "2024-01-15",
+          "impact": "Reduced tax burden for middle-income earners"
+        },
+        {
+          "title": "GST Rate Adjustments for Small Businesses",
+          "summary": "Simplified GST structure for businesses with turnover under 2 crores",
+          "source": "CBIC",
+          "date": "2024-01-10",
+          "impact": "Easier compliance for small businesses"
+        }
+      ],
+      "deadlines": [
+        "Income tax filing deadline: July 31, 2024",
+        "GST return filing: Monthly by 20th",
+        "TDS payment: Monthly by 7th"
+      ]
+    },
+    "capital_gains": {
+      "short_term_gains": 150000,
+      "long_term_gains": 350000,
+      "total_gains": 500000,
+      "tax_liability": {
+        "short_term_tax": 22500,
+        "long_term_tax": 35000,
+        "total_tax": 57500
+      },
+      "exemptions_available": [
+        "Section 54: Residential property investment",
+        "Section 54EC: Bonds investment",
+        "Section 54F: Residential property purchase"
+      ],
+      "optimization_suggestions": [
+        "Consider tax-loss harvesting",
+        "Invest in tax-saving bonds",
+        "Plan residential property investment"
+      ]
+    },
+    "alerts": {
+      "alerts": [
+        {
+          "type": "tax_deadline",
+          "priority": "high",
+          "message": "Income tax filing deadline approaching - July 31, 2024",
+          "action_required": true
+        },
+        {
+          "type": "market_alert",
+          "priority": "medium",
+          "message": "Significant market movement detected in banking sector",
+          "action_required": false
+        },
+        {
+          "type": "portfolio_rebalancing",
+          "priority": "low",
+          "message": "Portfolio rebalancing recommended due to market changes",
+          "action_required": true
+        }
+      ]
+    }
+  },
+  "scenario_2": {
+    "capital_gains": {
+      "short_term_gains": 150000,
+      "long_term_gains": 350000,
+      "total_gains": 500000,
+      "tax_liability": {
+        "short_term_tax": 22500,
+        "long_term_tax": 35000,
+        "total_tax": 57500
+      },
+      "exemptions_available": [
+        "Section 54: Residential property investment",
+        "Section 54EC: Bonds investment",
+        "Section 54F: Residential property purchase"
+      ],
+      "optimization_suggestions": [
+        "Consider tax-loss harvesting",
+        "Invest in tax-saving bonds",
+        "Plan residential property investment"
+      ]
+    },
+    "tax_updates": {
+      "latest_updates": [
+        {
+          "title": "New Tax Slab Changes Effective April 2024",
+          "summary": "Government announces revised tax slabs for FY 2024-25",
+          "source": "Ministry of Finance",
+          "date": "2024-01-15",
+          "impact": "Reduced tax burden for middle-income earners"
+        },
+        {
+          "title": "GST Rate Adjustments for Small Businesses",
+          "summary": "Simplified GST structure for businesses with turnover under 2 crores",
+          "source": "CBIC",
+          "date": "2024-01-10",
+          "impact": "Easier compliance for small businesses"
+        }
+      ],
+      "deadlines": [
+        "Income tax filing deadline: July 31, 2024",
+        "GST return filing: Monthly by 20th",
+        "TDS payment: Monthly by 7th"
+      ]
+    },
+    "alerts": {
+      "alerts": [
+        {
+          "type": "tax_deadline",
+          "priority": "high",
+          "message": "Income tax filing deadline approaching - July 31, 2024",
+          "action_required": true
+        },
+        {
+          "type": "market_alert",
+          "priority": "medium",
+          "message": "Significant market movement detected in banking sector",
+          "action_required": false
+        },
+        {
+          "type": "portfolio_rebalancing",
+          "priority": "low",
+          "message": "Portfolio rebalancing recommended due to market changes",
+          "action_required": true
+        }
+      ]
+    }
+  },
+  "scenario_3": {
+    "portfolio_summary": {
+      "total_value": 5000000,
+      "holdings_count": 12,
+      "asset_allocation": {
+        "equity": 3000000,
+        "mutual_funds": 1500000,
+        "bonds": 500000
+      },
+      "top_performers": [
+        {
+          "name": "HDFC Bank",
+          "return": 15.5,
+          "value": 800000
+        },
+        {
+          "name": "TCS",
+          "return": 12.3,
+          "value": 600000
+        },
+        {
+          "name": "Reliance",
+          "return": 8.7,
+          "value": 500000
+        }
+      ],
+      "risk_metrics": {
+        "diversification_score": 0.85,
+        "concentration_risk": "low",
+        "volatility_estimate": "medium"
+      },
+      "recommendations": [
+        "Consider increasing international exposure",
+        "Rebalance portfolio quarterly",
+        "Add more tax-saving instruments"
+      ]
+    },
+    "real_time_data": {
+      "market_trends": {
+        "nifty_50": "+2.3%",
+        "sensex": "+1.8%",
+        "bank_nifty": "+3.1%"
+      },
+      "sector_performance": {
+        "technology": "+4.2%",
+        "banking": "+2.8%",
+        "pharma": "+1.5%"
+      },
+      "economic_indicators": {
+        "inflation_rate": "4.1%",
+        "gdp_growth": "6.8%",
+        "interest_rate": "6.5%"
+      }
+    },
+    "tax_updates": {
+      "latest_updates": [
+        {
+          "title": "New Tax Slab Changes Effective April 2024",
+          "summary": "Government announces revised tax slabs for FY 2024-25",
+          "source": "Ministry of Finance",
+          "date": "2024-01-15",
+          "impact": "Reduced tax burden for middle-income earners"
+        },
+        {
+          "title": "GST Rate Adjustments for Small Businesses",
+          "summary": "Simplified GST structure for businesses with turnover under 2 crores",
+          "source": "CBIC",
+          "date": "2024-01-10",
+          "impact": "Easier compliance for small businesses"
+        }
+      ],
+      "deadlines": [
+        "Income tax filing deadline: July 31, 2024",
+        "GST return filing: Monthly by 20th",
+        "TDS payment: Monthly by 7th"
+      ]
+    }
+  },
+  "scenario_4": {
+    "tax_updates": {
+      "latest_updates": [
+        {
+          "title": "New Tax Slab Changes Effective April 2024",
+          "summary": "Government announces revised tax slabs for FY 2024-25",
+          "source": "Ministry of Finance",
+          "date": "2024-01-15",
+          "impact": "Reduced tax burden for middle-income earners"
+        },
+        {
+          "title": "GST Rate Adjustments for Small Businesses",
+          "summary": "Simplified GST structure for businesses with turnover under 2 crores",
+          "source": "CBIC",
+          "date": "2024-01-10",
+          "impact": "Easier compliance for small businesses"
+        }
+      ],
+      "deadlines": [
+        "Income tax filing deadline: July 31, 2024",
+        "GST return filing: Monthly by 20th",
+        "TDS payment: Monthly by 7th"
+      ]
+    },
+    "alerts": {
+      "alerts": [
+        {
+          "type": "tax_deadline",
+          "priority": "high",
+          "message": "Income tax filing deadline approaching - July 31, 2024",
+          "action_required": true
+        },
+        {
+          "type": "market_alert",
+          "priority": "medium",
+          "message": "Significant market movement detected in banking sector",
+          "action_required": false
+        },
+        {
+          "type": "portfolio_rebalancing",
+          "priority": "low",
+          "message": "Portfolio rebalancing recommended due to market changes",
+          "action_required": true
+        }
+      ]
+    }
+  }
+}
